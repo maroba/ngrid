@@ -1,7 +1,7 @@
 import abc
 
-from numgrid.exceptions import GridError
-from numgrid.interpol import LagrangeInterpolator
+from ngrid.exceptions import GridError
+from ngrid.interpol import LagrangeInterpolator
 
 
 class Grid(abc.ABC):

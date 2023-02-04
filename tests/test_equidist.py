@@ -4,7 +4,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 from numpy.testing import assert_array_almost_equal, assert_allclose
 
-from numgrid import ChebyshevGrid, EquidistantGrid
+from ngrid import ChebyshevGrid, EquidistantGrid
 
 
 class TestEquidistantCartesian(unittest.TestCase):

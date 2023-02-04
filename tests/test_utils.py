@@ -1,6 +1,6 @@
 import unittest
 
-from numgrid.utils import reduce_periodic
+from ngrid.utils import reduce_periodic
 
 
 class TestReducePeriodic(unittest.TestCase):

@@ -1,8 +1,8 @@
 import numpy as np
 from findiff import FinDiff
-from numgrid.base import Grid
-from numgrid.exceptions import GridError
-from numgrid.utils import reduce_periodic
+from ngrid.base import Grid
+from ngrid.exceptions import GridError
+from ngrid.utils import reduce_periodic
 from numpy.fft import fft, ifft, fftfreq
 from scipy.integrate import simpson
 

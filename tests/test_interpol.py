@@ -2,7 +2,7 @@ import unittest
 
 import numpy as np
 
-from numgrid.interpol import LagrangeInterpolator
+from ngrid.interpol import LagrangeInterpolator
 
 
 class TestLagrangeInterpolator(unittest.TestCase):

@@ -2,7 +2,7 @@ import numpy as np
 from numpy.fft import fft, ifft
 from numpy.linalg import inv
 
-from numgrid.base import Grid
+from ngrid.base import Grid
 
 
 class ChebyshevGrid(Grid):

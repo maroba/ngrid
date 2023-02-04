@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from numpy.testing import assert_array_almost_equal
 
-from numgrid import ChebyshevGrid
+from ngrid import ChebyshevGrid
 
 
 class TestChebyshevCartesian(unittest.TestCase):

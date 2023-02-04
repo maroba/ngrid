@@ -1,6 +1,6 @@
 import numpy as np
 
-from numgrid.exceptions import GridError
+from ngrid.exceptions import GridError
 
 
 class LagrangeInterpolator:
